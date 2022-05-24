@@ -12,6 +12,18 @@
     margin: 0 auto;
 }
 
+#cabecera {
+    background-color: blue;
+    vertical-align: middle;
+    color: #ddd;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    height: 2.5rem;
+    padding-left: 1rem;
+
+}
+
 #post {
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
