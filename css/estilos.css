@@ -13,15 +13,22 @@
 }
 
 #cabecera {
-    background-color: blue;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
     vertical-align: middle;
-    color: #ddd;
+    color: rgb(255, 255, 255);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.8rem;
     margin-bottom: 1rem;
     height: 2.5rem;
     padding-left: 1rem;
+    display: flex;
+    justify-items: center;
 
+}
+
+#cabecera>img {
+    height: 2rem;
 }
 
 #post {
