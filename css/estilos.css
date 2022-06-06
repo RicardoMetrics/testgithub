@@ -35,3 +35,11 @@
     color: darkgrey;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+#pie {
+    height: 3rem;
+    padding: .5rem;
+    text-align: center;
+    background: red;
+    color: #ddd;
+}
