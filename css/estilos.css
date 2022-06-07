@@ -36,6 +36,10 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+#post>img {
+    width: 100%;
+}
+
 #pie {
     height: 3rem;
     padding: .5rem;
