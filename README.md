@@ -9,3 +9,7 @@ Los README.md pueden estar en todas las carpetas, pero el más importante es el 
 ------------
 
 2022-06-07 16:56:00 Tuesday
+
+By Ricardo Yáñez
+
+Versión 1.02
